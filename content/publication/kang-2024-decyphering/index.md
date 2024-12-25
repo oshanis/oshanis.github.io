@@ -8,12 +8,11 @@ authors:
 - Thilanka Munasinghe
 - Aparna Gupta
 - Oshani Seneviratne
-date: '2024-01-01'
+date: '2024-05-13'
 publishDate: '2024-12-25T15:35:15.557637Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 16th ACM Web Science Conference*'
-doi: 10.1145/3614419.3644026
 abstract: Cryptocurrency is a fast-moving space, with a continuous influx of new projects
   every year. However, an increasing number of incidents in the space, such as hacks
   and security breaches, threaten the growth of the community and the development
@@ -47,4 +46,34 @@ tags:
 links:
 - name: URL
   url: https://doi.org/10.1145/3614419.3644026
+
+featured: true
+
+links:
+url_pdf: https://dl.acm.org/doi/10.1145/3614419.3644026
+url_code: 'https://github.com/blockchain-interoperability/blockchain-social-media'
+url_slides: ''
+url_video: 'https://dl.acm.org/doi/suppl/10.1145/3614419.3644026/suppl_file/PaperSession-7_Influence_Knowledge_Wealth_einzeln_Freitag_240605_InwonKang.mp4'
+url_slides: uploads/presentations/Crypto-Twitter.pdf
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Cluters of Crypto Twitter Posts'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- blockchain-interoperability
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
 ---
