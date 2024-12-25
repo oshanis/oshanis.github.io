@@ -10,4 +10,4 @@ go.sum
 ./static/files/resume/resume*.bcf
 ./static/files/resume/resume*.log
 
-static/uploads/.DS_Store
+.DS_Store
