@@ -33,19 +33,19 @@ profiles:
   - icon: at-symbol
     url: 'mailto:senevo@rpi.edu'
     label: E-mail Me
-  - icon: bluesky
-    url: https://bsky.app/profile/oshanis.bsky.social
-  - icon: brands/x
-    url: https://twitter.com/oshaniws
-  - icon: brands/github
-    url: https://github.com/oshanis
   - icon: brands/linkedin
     url: https://www.linkedin.com/oshani
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=88SHEBsAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8518-917X
-
+  - icon: brands/github
+    url: https://github.com/oshanis
+  - icon: brands/x
+    url: https://twitter.com/oshaniws
+  - icon: bluesky
+    url: https://bsky.app/profile/oshanis.bsky.social
+  
 interests:
   - Decentralized Systems
   - Decentralized Learning
