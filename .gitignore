@@ -1,0 +1,13 @@
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+.hugo_build.lock
+hugo_stats.json
+go.sum
+
+# Latex files
+./static/files/resume/resume*.aux
+./static/files/resume/resume*.bcf
+./static/files/resume/resume*.log
+
+static/uploads/.DS_Store
