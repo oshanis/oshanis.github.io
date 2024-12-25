@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Oshani Seneviratne
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Oshani
+last_name: Seneviratne
 
 # Status emoji
 status:
@@ -20,42 +20,42 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Assistant Professor in Computer Science
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Rensselaer Polytechnic Institute
+    url: https://faculty.rpi.edu/oshani-seneviratne
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:senevo@rpi.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/oshaniws
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/oshanis
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/oshani
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=88SHEBsAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-8518-917X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Decentralized Systems
+  - Web Science
+  - Semantic Web
+  - FinTech
+  - Health Informatics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD in Computer Science
+    institution: MIT
+    date_start: 2009-09-01
+    date_end: 2014-08-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -144,11 +144,9 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
+  - name: Sihnala
+    percent: 100
+  
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
