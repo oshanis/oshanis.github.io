@@ -5,7 +5,7 @@ authors:
 - Inwon Kang
 - William Van Woensel
 - Oshani Seneviratne
-date: '2024-01-01'
+date: '2024-08-23'
 publishDate: '2024-12-25T15:35:15.747451Z'
 publication_types:
 - chapter
@@ -36,4 +36,13 @@ abstract: "We explore using Large Language Models (LLMs) to generate application
 links:
 - name: URL
   url: https://doi.org/10.1007/978-3-031-63592-2_11
+
+featured: true
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Code Generation Workflow'
+  focal_point: ""
+  preview_only: false
 ---
