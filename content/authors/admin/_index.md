@@ -11,7 +11,7 @@ last_name: Seneviratne
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,6 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:senevo@rpi.edu'
     label: E-mail Me
+  - icon: bluesky
+    url: https://bsky.app/profile/oshanis.bsky.social
   - icon: brands/x
     url: https://twitter.com/oshaniws
   - icon: brands/github
@@ -46,6 +48,7 @@ profiles:
 
 interests:
   - Decentralized Systems
+  - Decentralized Learning
   - Web Science
   - Semantic Web
   - FinTech
@@ -181,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m Oshani Seneviratne, an Assistant Professor of Computer Science at [Rensselaer Polytechnic Institute](https://rpi.edu), leading the [BRAINS Lab](https://oshani.info/BRAINS). My research focuses on decentralized systems with applications in health informatics and decentralized finance.
