@@ -5,8 +5,9 @@ date: 2023-10-23
 authors:
   - admin
 tags:
-  - Funding
-  - Research
+  - Teaching
+  - New Course
+  - AI 
 ---
 
 ## Exciting News: Introduction to AI Course Kicks Off in Spring 2025!  
