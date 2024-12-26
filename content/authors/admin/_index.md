@@ -48,9 +48,10 @@ profiles:
   
 interests:
   - Decentralized Systems
-  - Decentralized Learning
   - Web Science
+  - Knowledge Graphs
   - Semantic Web
+  - Federated Learning
   - FinTech
   - Health Informatics
 
@@ -65,7 +66,7 @@ education:
 languages:
   - name: English
     percent: 100
-  - name: Sihnala
+  - name: Sinnala
     percent: 100
   
 ---

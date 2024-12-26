@@ -1,11 +1,11 @@
 ---
-title: Pandas
+title: Blockchain Interoperability
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: 
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - CRAFT
+  - Blockchain
+  - Interoperability
 ---
 
 blockchain-interoperability
