@@ -7,14 +7,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Last publications
+title: Latest publications
 # subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
 
 content:
-  # Filter on criteria
-  filters:
+# Filter on criteria
+filters:
     folders:
-      - publication
+    - publication
     tag: ''
     category: ''
     publication_type: ''
@@ -22,14 +22,14 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-  # Choose how many pages you would like to display (0 = all pages)
-  count: 0
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+# Choose how many pages you would like to display (0 = all pages)
+count: 0
+# Choose how many pages you would like to offset by
+offset: 0
+# Page order: descending (desc) or ascending (asc) date.
+order: desc
 design:
-  # Choose a view for the listings:
-  view: citation
-  columns: '2'
+# Choose a view for the listings:
+view: citation
+columns: '2'
 ---

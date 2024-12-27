@@ -11,16 +11,16 @@ main:
     url: post/
     weight: 11
   - name: Projects
-    url: projects/
+    url: project/
     weight: 12
   - name: Publications
-    url: /#papers
+    url: publication/
     weight: 13
   - name: Teaching
     url: teaching/
     weight: 14
   - name: Talks
-    url: /#talks
+    url: event/
     weight: 15
   - name: Students
     url: students/
