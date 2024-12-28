@@ -6,12 +6,6 @@ authors:
   - admin
 ---
 
-<!-- ### PhD Students  
-- ![Inwon Kang](/student-photos/Current/PhD/Inwon_Kang.jpeg) **[Inwon Kang](http://inwon.net)**: F'22 - Present  
-- ![Fernando Spadea](/student-photos/Current/PhD/Fernando_Spadea.jpg)**Fernando Spadea**: S'23 - Present  
-- ![Maruf Ahmed Mridul](/student-photos/Current/PhD/Maruf_Ahmed_Mridul.jpeg)**Maruf Ahmed Mridul**: F'23 - Present  
-- ![Md Saikat Islam Khan Bappy](/student-photos/Current/PhD/Md_Saikat_Islam_Khan_Bappy.jpg)**Md Saikat Islam Khan**: F'23 - Present   -->
-
 ### PhD Students
 
 <table>
