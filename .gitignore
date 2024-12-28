@@ -11,3 +11,4 @@ go.sum
 ./static/files/resume/resume*.log
 
 .DS_Store
+static/.DS_Store
