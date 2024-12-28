@@ -1,7 +1,7 @@
 ---
-title: Introduction to Artificial Intelligence - Spring 2025
+title: ✅ Introduction to Artificial Intelligence - Spring 2025
 summary: Introduction to AI Course Kicks Off in Spring 2025!
-date: 2024-12-31
+date: 2023-10-23
 authors:
   - admin
 tags:
