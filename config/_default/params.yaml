@@ -59,6 +59,6 @@ features:
     enable: false
 
 meta:
-  favicon: false
+  favicon: true
 
 custom_css: ["/css/custom.css"]

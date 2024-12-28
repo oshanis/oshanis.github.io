@@ -82,3 +82,6 @@ sections:
       columns: 1
 
 ---
+
+{{ $styles := resources.Get "/css/custom.css" | minify }}
+<link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen">
