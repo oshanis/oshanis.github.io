@@ -61,10 +61,13 @@ sitemap:
 
 cascade:
   - _target:
-      path: /blog/**
+      path: /news/**
     share: false
   - _target:
-      path: /publication/**
+      path: /publications/**
+    share: false
+  - _target:
+      path: /projects/**
     share: false
 
 lastmod: [":fileModTime", “:default”]
