@@ -1554,7 +1554,8 @@ doi = {10.1109/ICHI61247.2024.00101},
   number={},
   pages={86-92},
   keywords={Training,Privacy,Differential privacy,Accuracy,Federated learning,Decentralized applications,Throughput,Smart contracts,Privacy of dApps,dApps for Machine learning,Blockchain verifiability,Vertical Federated Learning,Differential Privacy},
-  doi={10.1109/DAPPS61106.2024.00020}
+  doi={10.1109/DAPPS61106.2024.00020},
+  abstract={We present the Differentially Private Blockchain-Based Vertical Federal Learning (DP-BBVFL) algorithm that provides verifiability and privacy guarantees for decentralized applications. DP-BBVFL uses a smart contract to aggregate the feature representations, i.e., the embeddings, from clients transparently. We apply local differential privacy to provide privacy for embeddings stored on a blockchain, hence protecting the original data. We provide the first prototype application of differential privacy with blockchain for vertical federated learning. Our experiments with medical data show that DP-BBVFL achieves high accuracy with a tradeoff in training time due to on-chain aggregation. This innovative fusion of differential privacy and blockchain technology in DP-BBVFL could herald a new era of collaborative and trustworthy machine learning applications across several decentralized application domains.}
 }
 
 @inproceedings{seneviratne2024thefeasibility,
@@ -1564,7 +1565,9 @@ doi = {10.1109/ICHI61247.2024.00101},
   pages={},
   year={2024},
   month={11},
-  organization={IEEE}
+  organization={IEEE},
+  url={https://arxiv.org/abs/2407.10302},
+  abstract={The advent of blockchain technology and its adoption across various sectors have raised critical discussions about the need for regulatory mechanisms to ensure consumer protection, maintain financial stability, and address privacy concerns without compromising the foundational principles of decentralization and immutability inherent in blockchain platforms. We examine the existing mechanisms for smart contract termination across several major blockchain platforms, including Ethereum, BNB Smart Chain, Cardano, Solana, Hyperledger Fabric, Corda, IOTA, Apotos, and Sui. We assess the compatibility of these mechanisms with the requirements of the EU Data Act, focusing on aspects such as consumer protection, error correction, and regulatory compliance. Our analysis reveals a diverse landscape of approaches, from immutable smart contracts with built-in termination conditions to upgradable smart contracts that allow for post-deployment modifications. We discuss the challenges associated with implementing the so-called smart contract “kill switches,” such as the balance between enabling regulatory compliance and preserving the decentralized ethos, the technical feasibility of such mechanisms, and the implications for security and trust in the ecosystem.}
 }
 
 
@@ -1575,7 +1578,10 @@ doi = {10.1109/ICHI61247.2024.00101},
   pages={},
   year={2024},
   month={10},
-  organization={IEEE}
+  organization={IEEE},
+  url={https://arxiv.org/abs/2407.19283},
+  abstract={The global financial landscape is experiencing significant transformation driven by technological advancements and evolving market dynamics. Moreover, blockchain technology has become a pivotal platform with widespread applications, especially in finance. Cross-border payments have emerged as a key area of interest, with blockchain offering inherent benefits such as enhanced security, transparency, and efficiency compared to traditional banking systems. This paper presents a novel framework leveraging blockchain technology and smart contracts to emulate cross-border payments, ensuring interoperability and compliance with international standards such as ISO20022. Key contributions of this paper include a novel prototype framework for implementing smart contracts and web clients for streamlined transactions and a mechanism to translate ISO20022 standard messages. Our framework can provide a practical solution for secure, efficient, and transparent cross-border transactions, contributing to the ongoing evolution of global finance and the emerging landscape of decentralized finance.},
+  keywords={Blockchain, Smart Contracts, Cross-Border Payments, ISO20022, FinTech, Interoperability, Decentralized Finance}
 }
 
 @inproceedings{lashuel2024llm,
@@ -1585,7 +1591,10 @@ doi = {10.1109/ICHI61247.2024.00101},
   pages={},
   year={2024},
   month={10},
-  organization={IEEE}
+  organization={IEEE},
+  abstract = {We examine the question of ``how well large language models (LLMs) can answer questions using temporal tabular financial data by generating code?''. Leveraging advanced language models, specifically GPT-4 and Llama 3, we aim to scrutinize and compare their abilities to generate coherent and effective code for Python, R, and SQL based on natural language prompts. We design an experiment to assess the performance of LLMs on natural language prompts on a large temporal financial dataset. We created a set of queries with hand-crafted R code answers. To investigate the strengths and weaknesses of LLMs, each query was created with different factors that characterize the financial meaning of the queries and their complexity. We demonstrate how to create specific zero-shot prompts to generate code to answer natural language queries about temporal financial tabular data. We develop specific system prompts for each language to ensure they correctly answer time-oriented questions. We execute this experiment on two LLMs (GPT-4 and Llama 3), assess if the outputs produced are executable and correct, and assess the efficiency of the produced code for Python, SQL, and R. We find that while LLMs have promising performance, their performance varies greatly across the languages, models, and experimental factors. GPT-4 performs best on Python (95.2\% correctness) but has significantly weaker performance on SQL (87.6\% correctness) and R (79.0\% correctness). Llama 3 is less successful at generating code overall, but it achieves its best results in R (71.4\% correctness). A multi-factor statistical analysis of the results with respect to the defined experimental factors provides further insights into the specific areas of challenge in code generation for each LLM. Our preliminary results on this modest benchmark demonstrate a framework for developing larger, comprehensive, unique benchmarks for both temporal financial tabular data and R code generation. While Python and SQL already have benchmarks, we are filling in the gaps for R. Powerful AI agents for text-to-code generation, as demonstrated in this work, provide a critical capability required for the next-generation AI-based natural language financial intelligence systems and chatbots, directly addressing the complex challenges presented by querying temporal tabular financial data.},
+  url={https://hdl.handle.net/20.500.13015/6909},
+  keywords = {large language models, code generation, gpt-4, llama3, financial data, tabular data, benchmarking, financial industry, automation}
 }
 
 @inproceedings{bappy2024fedrd,
@@ -1595,13 +1604,28 @@ doi = {10.1109/ICHI61247.2024.00101},
   pages={},
   year={2024},
   month={10},
-  organization={IEEE}
+  organization={IEEE},
+  url = {https://www.arxiv.org/pdf/2408.01609},
+  abstract = {We introduce Federated Learning for Relational Data (Fed-RD), a novel privacy-preserving federated learning algorithm specifically developed for financial transaction datasets partitioned vertically and horizontally across parties. Fed-RD strategically employs differential privacy and secure multiparty computation to guarantee the privacy of training data. We pro- vide theoretical analysis of the end-to-end privacy of the training algorithm and present experimental results on realistic synthetic datasets. Our results demonstrate that Fed-RD achieves high model accuracy with minimal degradation as privacy increases, while consistently surpassing benchmark results.}
+  keywords = {Anomalous transactions, financial fraud, federated learning, data partition, privacy analysis}
 }
 
 @inproceedings{kader2024enhancing,
-  title={{Enhancing Web Spam Detection through a Blockchain-Enabled Crowdsourcing Mechanism}},
-  author={Noah Kader and Inwon Kang and Oshani Seneviratne},
-  booktitle={The 25th International Web Information Systems Engineering conference (WISE)},
-  year={2024},
-  month={11},
+  author="Kader, Noah
+  and Kang, Inwon
+  and Seneviratne, Oshani",
+  editor="Barhamgi, Mahmoud
+  and Wang, Hua
+  and Wang, Xin",
+  title="Enhancing Web Spam Detection Through a Blockchain-Enabled Crowdsourcing Mechanism",
+  booktitle="Web Information Systems Engineering -- WISE 2024",
+  year="2025",
+  publisher="Springer Nature Singapore",
+  address="Singapore",
+  pages="485--499",
+  abstract="The proliferation of spam on the Web has necessitated the development of machine learning models to automate their detection. However, the dynamic nature of spam and the sophisticated evasion techniques employed by spammers often lead to low accuracy in these models. Traditional machine-learning approaches struggle to keep pace with spammers' constantly evolving tactics, resulting in a persistent challenge to maintain high detection rates. To address this, we propose blockchain-enabled incentivized crowdsourcing as a novel solution to enhance spam detection systems. We create an incentive mechanism for data collection and labeling by leveraging blockchain's decentralized and transparent framework. Contributors are rewarded for accurate labels and penalized for inaccuracies, ensuring high-quality data. A smart contract governs the submission and evaluation process, with participants staking cryptocurrency as collateral to guarantee integrity. Simulations show that incentivized crowdsourcing improves data quality, leading to more effective machine-learning models for spam detection. This approach offers a scalable and adaptable solution to the challenges of traditional methods.",
+  isbn="978-981-96-0576-7",
+  keywords={Web Spam Detection, Blockchain, Incentive Engineering, Crowdsourcing, Data Labeling, Cybersecurity},
+  url={https://doi.org/10.1007/978-981-96-0576-7_35},
 }
+
