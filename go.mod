@@ -7,7 +7,4 @@ require (
 	github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind v0.3.1
 )
 
-require (
-	github.com/future-wd/hugo-responsive-images v1.4.2 // indirect
-	github.com/hugomods/images v0.11.2 // indirect
-)
+require github.com/hugomods/images v0.11.2 // indirect
