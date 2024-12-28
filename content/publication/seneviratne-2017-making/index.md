@@ -4,7 +4,7 @@ title: 'Making Computer Science Attractive to High School Girls with Computation
 authors:
 - Oshani Seneviratne
 date: '2017-01-01'
-publishDate: '2024-12-28T21:14:42.743955Z'
+publishDate: '2024-12-25T15:35:15.093846Z'
 publication_types:
 - chapter
 publication: '*Emerging Research, Practice, and Policy on Computational Thinking*'

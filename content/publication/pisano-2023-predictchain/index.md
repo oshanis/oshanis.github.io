@@ -6,7 +6,7 @@ authors:
 - Connor Patterson
 - Oshani Seneviratne
 date: '2023-01-01'
-publishDate: '2024-12-28T21:14:42.989411Z'
+publishDate: '2024-12-25T15:35:15.329575Z'
 publication_types:
 - paper-conference
 publication: '*ChainScience 2023*'

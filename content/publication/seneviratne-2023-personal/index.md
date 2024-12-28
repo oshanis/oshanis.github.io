@@ -4,7 +4,7 @@ authors:
 - Oshani Seneviratne
 - Manan Shukla
 date: '2023-01-01'
-publishDate: '2024-12-28T21:14:43.354831Z'
+publishDate: '2024-12-25T15:35:15.692712Z'
 publication_types:
 - chapter
 publication: '*Personal Knowledge Graphs (PKGs): Methodology, tools and applications*'

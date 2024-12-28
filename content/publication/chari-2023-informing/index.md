@@ -14,7 +14,7 @@ authors:
 - Prithwish Chakraborty
 - Deborah L. McGuinness
 date: '2023-01-01'
-publishDate: '2024-12-28T21:14:43.302567Z'
+publishDate: '2024-12-25T15:35:15.641150Z'
 publication_types:
 - article-journal
 publication: '*Artificial Intelligence in Medicine*'

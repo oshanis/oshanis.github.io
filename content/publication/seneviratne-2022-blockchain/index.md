@@ -4,7 +4,7 @@ title: 'Blockchain for Social Good: Combating Misinformation on the Web with AI 
 authors:
 - Oshani Seneviratne
 date: '2022-01-01'
-publishDate: '2024-12-28T21:14:43.191828Z'
+publishDate: '2024-12-25T15:35:15.531469Z'
 publication_types:
 - paper-conference
 publication: "*WebSci '22: 14th ACM Web Science Conference 2022, Barcelona, Spain,

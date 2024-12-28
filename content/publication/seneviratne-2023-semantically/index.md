@@ -14,7 +14,7 @@ authors:
 - James A. Hendler
 - Deborah L. McGuinness
 date: '2023-01-01'
-publishDate: '2024-12-28T21:14:42.718346Z'
+publishDate: '2024-12-25T15:35:15.068566Z'
 publication_types:
 - article-journal
 publication: '*Journal of Biomedical Semantics*'

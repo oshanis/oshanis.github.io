@@ -4,7 +4,7 @@ authors:
 - Fernando Spadea
 - Oshani Seneviratne
 date: '2024-01-01'
-publishDate: '2024-12-28T21:14:43.459808Z'
+publishDate: '2024-12-25T15:35:15.796482Z'
 publication_types:
 - paper-conference
 publication: '*2024 IEEE International Conference on Decentralized Applications and

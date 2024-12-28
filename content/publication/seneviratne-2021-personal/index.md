@@ -5,7 +5,7 @@ authors:
 - Manan Shukla Oshani Seneviratne
 - Jianjing Lin
 date: '2021-01-01'
-publishDate: '2024-12-28T21:14:42.904126Z'
+publishDate: '2024-12-25T15:35:15.247176Z'
 publication_types:
 - paper-conference
 publication: '*International Workshop on AI in Health: Transferring and Integrating

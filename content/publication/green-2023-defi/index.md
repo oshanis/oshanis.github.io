@@ -8,7 +8,7 @@ authors:
 - Oshani Seneviratne
 - Kristin P. Bennett
 date: '2023-01-01'
-publishDate: '2024-12-28T21:14:42.731426Z'
+publishDate: '2024-12-25T15:35:15.081423Z'
 publication_types:
 - article-journal
 publication: '*ACM Distributed Ledger Technologies (DLT) Research and Practice*'

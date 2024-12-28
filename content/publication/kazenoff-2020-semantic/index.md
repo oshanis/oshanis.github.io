@@ -5,7 +5,7 @@ authors:
 - Oshani Seneviratne
 - Deborah L. McGuinness
 date: '2020-01-01'
-publishDate: '2024-12-28T21:14:43.147859Z'
+publishDate: '2024-12-25T15:35:15.487715Z'
 publication_types:
 - paper-conference
 publication: '*Joint Proceedings of Workshops AI4LEGAL2020, NLIWOD, PROFILES 2020,

@@ -13,7 +13,7 @@ authors:
 - Pablo Meyer Rojas
 - Deborah L McGuinness
 date: '2021-01-01'
-publishDate: '2024-12-28T21:14:43.105730Z'
+publishDate: '2024-12-25T15:35:15.445479Z'
 publication_types:
 - article-journal
 publication: '*American Medical Informatics Association (AMIA) Annual Conference 2021

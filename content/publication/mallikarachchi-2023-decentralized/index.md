@@ -8,7 +8,7 @@ authors:
 - Iyad Kanj
 - Isuru Godage
 date: '2023-01-01'
-publishDate: '2024-12-28T21:14:43.360997Z'
+publishDate: '2024-12-25T15:35:15.698874Z'
 publication_types:
 - paper-conference
 publication: '*2023 9th International Conference on Control, Automation and Robotics

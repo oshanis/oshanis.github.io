@@ -1,6 +1,6 @@
 ---
 title: BlockIoT
-date: 2023-10-26
+date: 2024-10-26
 external_link: 
 tags:
   - Blockchain

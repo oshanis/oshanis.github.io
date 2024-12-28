@@ -6,7 +6,7 @@ authors:
 - Oshani Seneviratne
 - Deborah L. McGuinness
 date: '2020-01-01'
-publishDate: '2024-12-28T21:14:42.737652Z'
+publishDate: '2024-12-25T15:35:15.087615Z'
 publication_types:
 - chapter
 publication: '*Knowledge Graphs for Explainable Artificial Intelligence: Foundations,

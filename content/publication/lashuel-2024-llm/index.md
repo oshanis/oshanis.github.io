@@ -8,7 +8,7 @@ authors:
 - Oshani Seneviratne
 - Kristin Bennett
 date: '2024-10-01'
-publishDate: '2024-12-28T21:14:43.484137Z'
+publishDate: '2024-12-25T15:35:15.820616Z'
 publication_types:
 - paper-conference
 publication: '*IEEE Computational Intelligence in Finance and Economic Conference

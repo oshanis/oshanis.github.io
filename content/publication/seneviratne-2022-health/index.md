@@ -3,7 +3,7 @@ title: Health Data Management for Internet of Medical Things
 authors:
 - Oshani Seneviratne
 date: '2022-01-01'
-publishDate: '2024-12-28T21:14:43.238079Z'
+publishDate: '2024-12-25T15:35:15.577378Z'
 publication_types:
 - chapter
 publication: '*Women Securing the Future with TIPPSS for Connected Healthcare: Trust,

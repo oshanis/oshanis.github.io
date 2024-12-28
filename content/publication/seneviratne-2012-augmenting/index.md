@@ -3,7 +3,7 @@ title: Augmenting the web with accountability
 authors:
 - Oshani Seneviratne
 date: '2012-01-01'
-publishDate: '2024-12-28T21:14:42.678157Z'
+publishDate: '2024-12-25T15:35:15.028798Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of the 21st International Conference on World Wide Web*'

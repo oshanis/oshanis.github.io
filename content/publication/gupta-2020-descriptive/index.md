@@ -5,7 +5,7 @@ authors:
 - Jyothsna Harithsa
 - Oshani Seneviratne
 date: '2020-01-01'
-publishDate: '2024-12-28T21:14:43.271571Z'
+publishDate: '2024-12-25T15:35:15.610401Z'
 publication_types:
 - paper-conference
 publication: '*2020 2nd Conference on Blockchain Research & Applications for Innovative

@@ -5,7 +5,7 @@ authors:
 - Oshani Seneviratne
 - Deborah L. McGuinness
 date: '2023-01-01'
-publishDate: '2024-12-28T21:14:43.373487Z'
+publishDate: '2024-12-25T15:35:15.711190Z'
 publication_types:
 - paper-conference
 publication: "*Trusting Decentralised KGs on the Web (TrustDeKW'23) at the Extended

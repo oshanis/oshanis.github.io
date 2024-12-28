@@ -6,7 +6,7 @@ authors:
 - Oshani Seneviratne
 - Stacy Patterson
 date: '2024-10-01'
-publishDate: '2024-12-28T21:14:43.490121Z'
+publishDate: '2024-12-25T15:35:15.826607Z'
 publication_types:
 - paper-conference
 publication: '*IEEE Computational Intelligence in Finance and Economic Conference

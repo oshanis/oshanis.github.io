@@ -9,7 +9,7 @@ authors:
 - Deborah L. McGuinnesss
 - Amar Das
 date: '2019-01-01'
-publishDate: '2024-12-28T21:14:42.836083Z'
+publishDate: '2024-12-25T15:35:15.181905Z'
 publication_types:
 - paper-conference
 publication: '*Artificial Intelligence for Data Discovery and Reuse (AIDR 2019)*'

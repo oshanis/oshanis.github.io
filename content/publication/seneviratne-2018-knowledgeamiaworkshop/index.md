@@ -9,7 +9,7 @@ authors:
 - Jim Hendler
 - Deborah McGuinness
 date: '2018-01-01'
-publishDate: '2024-12-28T21:14:43.032884Z'
+publishDate: '2024-12-25T15:35:15.371789Z'
 publication_types:
 - paper-conference
 publication: '*Knowledge Representation and Semantics Working Group Pre-Symposium

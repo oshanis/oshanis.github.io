@@ -64,7 +64,7 @@ cascade:
       path: /news/**
     share: false
   - _target:
-      path: /publications/**
+      path: /publication/**
     share: false
   - _target:
       path: /projects/**
