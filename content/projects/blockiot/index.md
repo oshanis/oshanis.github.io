@@ -13,18 +13,18 @@ BlockIot is an interoperable, and decentralized way to connect Internet of Thing
 
 ## Awards
 
-- Distinguished Paper Award at AMIA 2023 for [MentalHealthAI](/publications/shukla-2023-mental-health-ai) work
+- Distinguished Paper Award at AMIA 2023 for [MentalHealthAI](/publication/shukla-2023-mental-health-ai) work
 - [FHIR @hack 2021 - Winner of the "Gamechanger | Best Out of the Box Hack" Prize](https://devpost.com/software/emsights)
 
 ## Publications
 
-- [MentalHealthAI: Utilizing Personal Health Device Data to Optimize Psychiatry Treatment](/publications/shukla-2023-mental-health-ai) (Distinguished Paper Award at AMIA 2023)
+- [MentalHealthAI: Utilizing Personal Health Device Data to Optimize Psychiatry Treatment](/publication/shukla-2023-mental-health-ai) (Distinguished Paper Award at AMIA 2023)
 - [Collaboratively Learning Optimal Patient Outcomes Using Smart Contracts
-in Limited Data Settings](/publications/shukla-2022-collaboratively)
-- [Blockchain and IoT Enhanced Clinical Workflow](/publications/shukla-2022-blockchain)
+in Limited Data Settings](/publication/shukla-2022-collaboratively)
+- [Blockchain and IoT Enhanced Clinical Workflow](/publication/shukla-2022-blockchain)
 - [BlockIoT-RETEL: Blockchain and IoT Based Read-Execute-Transact-Erase-Loop
-  Environment for Integrating Personal Health Data](/publications/shukla-2021-blockiotretel)
-- [BlockIoT: Blockchain-based Health Data Integration using IoT Devices](/publications/shukla-2021-blockiot)
+  Environment for Integrating Personal Health Data](/publication/shukla-2021-blockiotretel)
+- [BlockIoT: Blockchain-based Health Data Integration using IoT Devices](/publication/shukla-2021-blockiot)
 
 ## Workshop Presentations
 
