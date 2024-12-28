@@ -15,7 +15,7 @@ sections:
       text: Here are a selection of on-going and past research projects.
       filters:
         folders:
-          - project
+          - projects
     design:
       view: article-grid
       fill_image: false

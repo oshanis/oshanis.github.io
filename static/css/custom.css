@@ -1,3 +1,10 @@
 p.powered-by {
     display: none;
+}
+
+/* To set the background color of the whole page */
+body {
+    background-color: black;
+    color: white; /* Optional: Set text color to white for readability */
   }
+  

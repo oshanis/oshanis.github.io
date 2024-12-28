@@ -8,6 +8,6 @@ tags:
   - Interoperability
 ---
 
-blockchain-interoperability
+CRAFT funded blockchain-interoperability project
 
 <!--more-->

@@ -15,7 +15,6 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Oshani Seneviratne is an Assisant Professor at Rensselaer Polytechnic Institute.'
-    twitter: 'oshaniws'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -60,6 +59,6 @@ features:
     enable: false
 
 meta:
-  favicon: true
+  favicon: false
 
 custom_css: ["/css/custom.css"]
