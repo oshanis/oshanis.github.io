@@ -1,7 +1,7 @@
 ---
-title: ✅ New Funded Projects
+title: New Funded Projects 
 summary: Two New Research Grants for the Next Year!  
-date: 2023-10-23
+date: 2024-12-31
 authors:
   - admin
 tags:
