@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:senevo@rpi.edu'
     label: E-mail Me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/oshani
+    url: https://www.linkedin.com/in/oshani
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=88SHEBsAAAAJ&hl=en
   - icon: academicons/orcid
