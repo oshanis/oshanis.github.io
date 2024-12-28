@@ -20,7 +20,7 @@ main:
     url: teaching/
     weight: 14
   - name: Talks
-    url: event/
+    url: talks/
     weight: 15
   - name: Students
     url: students/
