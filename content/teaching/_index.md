@@ -1,23 +1,9 @@
 ---
-title: Teaching
-summary: My courses
-type: landing
-
-cascade:
-  - _target:
-      kind: page
-    params:
-      show_breadcrumb: true
-
-sections:
-  - block: collection 
-    id: teaching
-    content:
-      title: Teaching
-      filters:
-        folders:
-          - teaching
-    design:
-      view: article-grid
-      columns: 2
+title: My Courses
+summary: My Courses
 ---
+
+- **Introduction to AI**: S'25  
+- **AI and Blockchain**: S'25, S'24, F'23, S'23, F'22  
+- **AI in Fact and Fiction**: F'23, Su'22, Su'21  
+
