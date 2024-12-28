@@ -60,16 +60,6 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -81,13 +71,14 @@ sections:
       view: article-grid
       columns: 3
   - block: collection
+    id: talks
     content:
-      title: Recent Publications
-      text: ""
+      title: Recent & Upcoming Talks
       filters:
         folders:
-          - publication
-        exclude_featured: false
+          - event
     design:
-      view: citation
+      view: article-grid
+      columns: 1
+
 ---
