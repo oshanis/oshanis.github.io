@@ -42,7 +42,7 @@ summary: My Students
     <td style="width: 20%;">
       <img src="/student-photos/Current/MS/Yu-Kai_Wang.jpeg" alt="Yu-Kai Wang" width="150" height="150" />
       <br />
-      <strong>Yu-Kai Wang</strong>
+      <strong>Yu-Kai (Steven) Wang</strong>
     </td>
     <td style="width: 20%;">
       <img src="/student-photos/Current/MS/Aarnav_Patel.jpeg" alt="Aarnav Patel" width="150" height="150" />
@@ -66,7 +66,7 @@ summary: My Students
 <!-- - **Kaiyang Chang** | *Project: Blockchain Interoperability & Smart Derivatives Contract Encoding*: S'24 - S'25  
 - **Faizaan Ali** | *Project: Data Provenance for AI Model Training*: F'24 - S'25   -->
 
-<table style="width: 100%; table-layout: fixed; text-align: left; border-collapse: collapse;">
+<table style="width: 40%; table-layout: fixed; text-align: left; border-collapse: collapse;">
   <tr>
     <td style="width: 20%;">
       <img src="/student-photos/Current/UG/Kaiyang_Chang.jpg" alt="Kaiyang Chang" width="150" height="150" />
