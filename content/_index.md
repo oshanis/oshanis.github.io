@@ -65,7 +65,7 @@ sections:
       title: Featured Publications
       filters:
         folders:
-          - publication
+          - publications
         featured_only: true
     design:
       view: article-grid
@@ -76,7 +76,7 @@ sections:
       title: Recent & Upcoming Talks
       filters:
         folders:
-          - event
+          - talks
     design:
       view: article-grid
       columns: 1
