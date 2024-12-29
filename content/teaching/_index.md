@@ -1,6 +1,6 @@
 ---
-title: My Courses
-summary: My Courses
+title: Courses
+summary: 
 ---
 
 - **Introduction to AI**: S'25  

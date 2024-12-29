@@ -69,5 +69,8 @@ cascade:
   - _target:
       path: /projects/**
     share: false
+  - _target:
+      path: /talks/**
+    share: false
 
 lastmod: [":fileModTime", “:default”]
