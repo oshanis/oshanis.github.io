@@ -66,7 +66,7 @@ education:
 languages:
   - name: English
     percent: 100
-  - name: Sinnala
+  - name: Sinhala
     percent: 100
   
 ---
