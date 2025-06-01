@@ -47,11 +47,11 @@ profiles:
     url: https://bsky.app/profile/oshanis.bsky.social
   
 interests:
-  - Decentralized Systems
+  - Decentralized AI
+  - Blockchain
   - Web Science
   - Knowledge Graphs
   - Semantic Web
-  - Federated Learning
   - FinTech
   - Health Informatics
 
@@ -77,4 +77,4 @@ I’m Oshani Seneviratne, an Assistant Professor of Computer Science at [Renssel
 
 I lead the **BRAINS** (**B**ridging **R**esilient, **A**ccountable, **I**ntelligent **N**etworked **S**ystems) Lab. My research focuses on decentralized intelligent systems with applications in health informatics and decentralized finance. 
 
-I teach Introduction to AI and AI and Blockchain courses in every Spring semester.
+I teach **Decentralized AI**, **Web3**, and **Introduction to AI** courses at RPI.
