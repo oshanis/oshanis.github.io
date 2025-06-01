@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: CV
         url: uploads/Oshani_Seneviratne_CV.pdf
     design:
       css_class: dark
