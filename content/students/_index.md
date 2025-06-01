@@ -1,6 +1,6 @@
 ---
-title: BRAINS Group
-summary: BRAINS Group
+title: My Students
+summary: My Students
 ---
 
 ### PhD Students
@@ -13,7 +13,7 @@ summary: BRAINS Group
       <strong><a href="http://inwon.net">Inwon Kang</a></strong>
     </td>
     <td style="width: 25%;"  align="center">
-      <img src="/student-photos/Current/PhD/Fernando_Spadea.jpeg" alt="Fernando Spadea" width="150" height="150" />
+      <img src="/student-photos/Current/PhD/Fernando_Spadea.jpg" alt="Fernando Spadea" width="150" height="150" />
       <br />
       <strong>Fernando Spadea</strong>
     </td>
