@@ -1,5 +1,9 @@
 # Oshani Seneviratne - Academic Website 
 
+## Changing the top-level information
+
+The index page content is available in /content/authors/admin/_index.md file.
+
 ## Importing Publications
 
 Please check [this guide](https://docs.hugoblox.com/tutorial/resume/step-3/) on how to importing publications.
