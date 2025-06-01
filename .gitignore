@@ -12,3 +12,4 @@ go.sum
 
 .DS_Store
 static/.DS_Store
+static/uploads/.DS_Store
