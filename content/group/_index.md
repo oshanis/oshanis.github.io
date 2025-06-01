@@ -1,6 +1,6 @@
 ---
-title: My Students
-summary: My Students
+title: BRAINS Group
+summary: 
 ---
 
 ### PhD Students
