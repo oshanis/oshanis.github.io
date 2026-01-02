@@ -75,6 +75,6 @@ languages:
 
 I’m Oshani Seneviratne, an Assistant Professor of Computer Science at [Rensselaer Polytechnic Institute](https://rpi.edu).
 
-I lead the **BRAINS** (**B**ridging **R**esilient, **A**ccountable, **I**ntelligent **N**etworked **S**ystems) Lab. My research focuses on decentralized intelligent systems with applications in health informatics and decentralized finance. 
+I lead the [**BRAINS** (**B**ridging **R**esilient, **A**ccountable, **I**ntelligent **N**etworked **S**ystems) Group](https://brains.oshani.info) at RPI. My research focuses on decentralized intelligent systems with applications in health informatics and decentralized finance. 
 
 I teach **Decentralized AI**, **Web3**, and **Introduction to AI** courses at RPI.
