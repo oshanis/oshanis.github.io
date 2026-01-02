@@ -1,0 +1,57 @@
+<!-- Remove Hugo Blox Builder footer text -->
+<script>
+  (function() {
+    function removeHugoBloxFooter() {
+      // Find and remove any element containing "Hugo Blox" or "Blox Builder" text
+      const footer = document.querySelector('footer');
+      if (footer) {
+        // Get all text nodes and elements in footer
+        const walker = document.createTreeWalker(
+          footer,
+          NodeFilter.SHOW_TEXT | NodeFilter.SHOW_ELEMENT,
+          null,
+          false
+        );
+        
+        let node;
+        const elementsToRemove = [];
+        
+        while (node = walker.nextNode()) {
+          if (node.nodeType === Node.TEXT_NODE) {
+            const text = node.textContent;
+            if (text && (text.includes('Hugo Blox') || text.includes('Blox Builder') || text.includes('Published with'))) {
+              // Remove the parent element
+              if (node.parentElement) {
+                elementsToRemove.push(node.parentElement);
+              }
+            }
+          } else if (node.nodeType === Node.ELEMENT_NODE) {
+            const text = node.textContent || node.innerText;
+            if (text && (text.includes('Hugo Blox') || text.includes('Blox Builder') || text.includes('Published with'))) {
+              elementsToRemove.push(node);
+            }
+          }
+        }
+        
+        // Remove all found elements
+        elementsToRemove.forEach(el => {
+          if (el && el.parentNode) {
+            el.style.display = 'none';
+            el.remove();
+          }
+        });
+      }
+    }
+    
+    // Run on DOM ready
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', removeHugoBloxFooter);
+    } else {
+      removeHugoBloxFooter();
+    }
+    
+    // Also run after a short delay to catch dynamically loaded content
+    setTimeout(removeHugoBloxFooter, 1000);
+  })();
+</script>
+

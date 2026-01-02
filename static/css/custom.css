@@ -1,3 +1,16 @@
-p.powered-by {
+/* Hide Hugo Blox Builder footer text */
+p.powered-by,
+.powered-by,
+[class*="powered-by"],
+footer a[href*="hugoblox"],
+footer a[href*="wowchemy"],
+footer a[href*="hugoblox.com"] {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Hide any element in footer containing Hugo Blox text */
+footer *[class*="blox"],
+footer *[id*="blox"] {
     display: none !important;
 }
