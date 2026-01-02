@@ -23,5 +23,5 @@ main:
     url: talks/
     weight: 60
   - name: Group
-    url: group/
+    url: https://brains.oshani.info/
     weight: 70
