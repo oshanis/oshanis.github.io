@@ -31,17 +31,6 @@ sections:
           position: center
           parallax: false
   - block: collection
-    id: news
-    content:
-      title: Recent News
-      filters:
-        folders:
-          - news
-    design:
-      view: article-grid
-      columns: 1
-
-  - block: collection
     id: papers
     content:
       title: Featured Publications
